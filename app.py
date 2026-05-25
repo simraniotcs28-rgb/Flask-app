@@ -50,7 +50,7 @@ def home():
 
         <script>
             function sayHello() {{
-                alert("Hello World");
+                alert("CI/CD Pipeline working successfully");
             }}
         </script>
     </body>
